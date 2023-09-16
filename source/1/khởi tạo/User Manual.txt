@@ -1,0 +1,2 @@
+init.cmd •	Khởi tạo với tham số N được nhập từ cmd
+init2.cmd •	Khởi tạo với tham số N được chọn sẵn trong file.cmd

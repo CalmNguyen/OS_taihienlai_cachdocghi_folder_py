@@ -1,0 +1,2 @@
+restore.cmd •	Chương trình cmd phục hồi tất cả file
+restore.py •	Chương trình python phục hồi tất cả file

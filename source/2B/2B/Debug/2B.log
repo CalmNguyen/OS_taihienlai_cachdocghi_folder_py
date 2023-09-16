@@ -1,0 +1,9 @@
+﻿  BaiLam.cpp
+D:\19120652\HDH\GK\2B\2B\BaiLam.cpp(10,37): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+D:\19120652\HDH\GK\2B\2B\BaiLam.cpp(32,39): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+D:\19120652\HDH\GK\2B\2B\BaiLam.cpp(100,21): warning C4018: '<': signed/unsigned mismatch
+D:\19120652\HDH\GK\2B\2B\BaiLam.cpp(156,21): warning C4018: '<': signed/unsigned mismatch
+D:\19120652\HDH\GK\2B\2B\BaiLam.cpp(237,37): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+D:\19120652\HDH\GK\2B\2B\BaiLam.cpp(261,39): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+D:\19120652\HDH\GK\2B\2B\BaiLam.cpp(194): warning C4715: 'Outport': not all control paths return a value
+  2B.vcxproj -> D:\19120652\HDH\GK\2B\Debug\2B.exe

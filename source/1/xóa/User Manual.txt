@@ -1,0 +1,3 @@
+del.cmd •      Xóa toàn bộ các file F<K>.Dat với K chẵn
+del2.cmd •	Xóa từng file F<K> với K được nhập từ cmd
+del3.cmd •	Xóa những file F<K> chẵn, từ file F<X> đến file F<Y>, X, Y được nhập từ cmd (X<Y)
